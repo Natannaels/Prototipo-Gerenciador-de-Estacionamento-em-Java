@@ -116,9 +116,3 @@ As classes de serviço fornecem funcionalidades adicionais para a leitura e escr
 
 ### Funcionamento Geral
 O sistema utiliza arquivos `.txt` para persistir os dados de vagas e clientes. As classes de leitura e escrita (`VagaReader`, `VagaWriter`, `ClienteReader`, `ClienteWriter`) gerenciam essas operações de I/O, garantindo que o estado do estacionamento seja mantido entre execuções do programa.
-
-
----
-
-
-Sinta-se à vontade para adicionar mais detalhes ou modificar algo conforme necessário. Podemos continuar a detalhar as classes ou adicionar mais informações sobre outras funcionalidades do sistema.
