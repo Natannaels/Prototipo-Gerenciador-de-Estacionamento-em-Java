@@ -2,7 +2,7 @@
 
 
 ### Descrição Geral
-Este sistema permite o gerenciamento eficiente de um estacionamento, possibilitando o cadastro e a gestão de vagas utilizando arquivos de persistência em formato `.txt`.
+Este sistema permite o gerenciamento  de um estacionamento, possibilitando o cadastro e a gestão de vagas utilizando arquivos de persistência em formato `.txt`.
 
 
 ### Estrutura do Sistema
